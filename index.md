@@ -6,9 +6,10 @@ I’m a *26* years old full stack developer with 5+ yr of experience not afraid 
 Born and *raised in Milan*, I currently *live in Barcelona* since the last 2 years, thing that help me to learn and consolidate my *Spanish* as well as my *English* as I currently work for an international company. As a bonus language I can put *Catalan* in which I have a fluent understanding.
 
 <div id="webaddress">
-  <span> email: <a href="stefano.saitta92@gmail.com">stefano.saitta92@gmail.com</a></span></br>
-  <span> phone: <a href="tel://+43633529977">+34 633 52 99 77</a></span></br>
-  <span> github: <a href="https://github.com/nerder/">https://github.com/nerder/</a></span></br>
+  <span> <b>Email</b>: <a href="stefano.saitta92@gmail.com">stefano.saitta92@gmail.com</a></span></br>
+  <span> <b>Phone</b>: <a href="tel://+43633529977">+34 633 52 99 77</a></span></br>
+  <span> <b>Github</b>: <a href="https://github.com/nerder/">@nerder</a></span></br>
+  <span> <b>Linkdin</b>: <a href="https://www.linkedin.com/in/etcpasswd/">@etcpasswd</a></span></br>
 </div>
 
 ## Working Experiences 
